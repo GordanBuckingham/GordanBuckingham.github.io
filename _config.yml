@@ -3,7 +3,7 @@ description: "Gordan Buckingham's personal website - used to occasionally post a
 about: "Hello! Welcome to my site. I occasionally post about GIS, data visualization, and other things I am interested in. Feel free to contact me if you have any questions or if you just want to say hi!"
 location: "Charlote, NC"
 email: gordan.buckingham@gmail.com
-baseurl: "/material-theme"
+baseurl: ""
 
 url: "http://gordanbuckingham.com" # replace by your site's url
 twitter_username: GBuckingham143
