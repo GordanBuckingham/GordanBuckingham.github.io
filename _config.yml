@@ -1,0 +1,63 @@
+title: "Gordan Buckingham"
+description: "Gordan Buckingham's personal website - used to occasionally post about things he finds interesting & things he is learning about!"
+about: "Hello! Welcome to my site. I occasionally post about GIS, data visualization, and other things I am interested in. Feel free to contact me if you have any questions or if you just want to say hi!"
+location: "Charlote, NC"
+email: gordan.buckingham@gmail.com
+baseurl: "/material-theme"
+
+url: "http://gordanbuckingham.com" # replace by your site's url
+twitter_username: GBuckingham143
+github_username:  GordanBuckingham
+linkedin_username: gordanbuckingham
+author: "Gordan Buckingham"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# add your disqus to enable comments
+disqus_shortname:
+
+# add your disqus to enable comments
+disqus_shortname:
+
+# language settings
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
+posts_btn: "Posts"
+name_badge: "an article by"
+rss_badge: "Subscribe feed!"
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    tab_width: 4
+
+# third party gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
