@@ -18,3 +18,10 @@ var show_posts = function() {
     });
     $('#posts-btn').addClass('disabled')
 };
+var show_about = function() {
+    $('#about-btn').removeClass('disabled');
+    $('#about').fadeOut(function() {
+        $('#about').fadeIn(300)
+    });
+    $('#about-btn').addClass('disabled')
+};
