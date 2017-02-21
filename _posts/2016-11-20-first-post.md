@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "First Post"
-date:   2016-11-20 00:00:00 +0200
 tags: ['jekyll', 'welcome']
 author: "Gordan Buckingham"
 ---
